@@ -1,5 +1,5 @@
 # csdt2223ki47baiorokru03
-## Subject: CSDT, Task 1. Initiate GIT repository
+## Subject: CSDT
 
 #### Task 2 - Create UART<->i-face schema (FEF):
 
